@@ -10,3 +10,10 @@ you must enter two webhooks to send data to. "webhookurl" (No quotation marks) i
 i cannot build this file bcoz you must provide your own discord webhook
 
 and it's not detected as malware when sent using discord (when compiled)
+
+#ToDo List:
+- Wifi Password Stealer
+- Optional reverse-shell
+- Screenshot desktop and sends pic to webhook
+- Optimalization
+- Updates?
