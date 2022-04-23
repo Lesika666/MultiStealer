@@ -12,7 +12,7 @@ i cannot build this file bcoz you must provide your own discord webhook
 and it's not detected as malware when sent using discord (when compiled)
 
 # ToDo List:
-- Wifi Password Stealer
+- Wifi Password Stealer       (i'm working on it)
 - Optional reverse-shell
 - Screenshot desktop and sends pic to webhook
 - Optimalization
